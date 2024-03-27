@@ -1,4 +1,4 @@
-![image](https://github.com/Siddhartha082/AWS_using_ECR_EC2_Instance_CI-CD_Pipeline_Docker_Container/assets/110781138/84f4666f-4fa5-4980-ba07-fa26bea36c96)## End to End MAchine Learning Project
+## End to End MAchine Learning Project
 
 # AWS Deployment
 
@@ -211,6 +211,8 @@ ECR_REPOSITORY_NAME = simple-app
 # final Completion- CI/CD pipeline
 
 ![image](https://github.com/Siddhartha082/AWS_using_ECR_EC2_Instance_CI-CD_Pipeline_Docker_Container/assets/110781138/9bac6bef-7a7b-43bd-b471-3259f17639cc)
+
+![image](https://github.com/Siddhartha082/AWS_using_ECR_EC2_Instance_CI-CD_Pipeline_Docker_Container/assets/110781138/84f4666f-4fa5-4980-ba07-fa26bea36c96)
 
 ![image](https://github.com/Siddhartha082/AWS_using_ECR_EC2_Instance_CI-CD_Pipeline_Docker_Container/assets/110781138/5b63565c-cb01-4821-8969-2ce2b59b595e)
 
